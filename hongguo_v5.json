@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "hongguo_python_v5",
+      "name": "红果短剧 v5",
+      "type": 3,
+      "api": "https://gcore.jsdelivr.net/gh/li7573185/hongguo-tvbox@main/hongguo_v5.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": ""
+    }
+  ]
+}
