@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "hongguo_python_v8",
+      "name": "红果短剧 v8",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/li7573185/hongguo-tvbox@main/hongguo_v8.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": ""
+    }
+  ]
+}
